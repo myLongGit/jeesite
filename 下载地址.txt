@@ -1,0 +1,4 @@
+由于上传限制60M而代码打包150M所以fork了一份到自己的仓库
+另外建议用下面地址下载代码，这个版本是文档演示配套的，如果下载原作者的最新版本，可能会有部分代码改变，导致一些不同的的问题。
+iBase4J：https://git.oschina.net/0qinf0/iBase4J.git
+iBase4J-UI：https://git.oschina.net/0qinf0/iBase4J-UI.git
